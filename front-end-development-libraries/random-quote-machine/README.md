@@ -1,1 +1,1 @@
-This project was initialized using [cra-template-leda](https://github.com/LedaThemis/cra-template-leda)
+Moved to [random-quote-machine](https://github.com/LedaThemis/random-quote-machine)
